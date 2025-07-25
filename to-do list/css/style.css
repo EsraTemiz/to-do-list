@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+background-image: url("img/birds.png");
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-position:320%;
+backdrop-filter:initial ;
+background-color:rgba(211, 211, 79, 0.907) ;
+}
+.cerceve{
+ text-align:center ;
+ margin-top:100px;
+ padding:100px;
+}
+.icerik{
+left:200px ;
+top:200px;
+}
+h1{
+  color:red; 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  padding:50px;
+}
+.gorev_input{
+height:30px ;
+width: 50%;
+border-radius: 5px;
+border: none;
+}
+.gorev_ekle{
+height:30px ;
+border-radius:5px ;
+width:50px ;
+border:none;
+}
